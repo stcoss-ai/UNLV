@@ -74,6 +74,15 @@
 
 (관련문의: 인공지능혁신융합대학사업단 02-970-9743)
 
+
+# GITHUB를 이용한 질의 응답 답변
+
+## ※학과 성명 등 개인정보 게시 금지※
+
+Issues 메뉴로 들어가 New issue를 생성하여 질문
+
+
+
 ![SNUST1697448077126](https://github.com/stcoss-ai/UNLV/assets/142790518/3decbb4a-cdab-4497-aca1-4a6ce79b4a83)
 
 
